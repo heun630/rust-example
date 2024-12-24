@@ -28,6 +28,4 @@ fn main() {
     let a = "SEOUL";
     let b = "TOKYO";
     println!("{city1:-<15}{city2:->15}", city1 = a, city2 = b)
-
-
 }
